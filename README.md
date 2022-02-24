@@ -55,7 +55,7 @@ nodejs -> v16.14.0
 
 ---
 ### Usage  
-Application is interactive so once all steps above is complete, simply run the application and navigate through the console UI to make changes to inventory and formulary.  
+Application is interactive so once all steps above is complete, simply run the application and navigate through the console UI to make changes to inventory and formulary. Note that the .txt files generated from this program MUST be in the CWD.  
   
 Main Menu  
 ![image](https://user-images.githubusercontent.com/43963470/155552249-48a1a060-2e2d-4003-9f12-87ec2897c95b.png)  
