@@ -5,7 +5,7 @@ This project was inspired by the Truepill technical test. A console-based intera
 
 ---
 ### Functionalities  
-**Functional Requirements:**
+**Essential Features:**
 > Add Paracetamol and Ibuprofen to formulary.
 
 > Add Amoxicillin to formulary.
@@ -16,7 +16,7 @@ This project was inspired by the Truepill technical test. A console-based intera
 
 > List the names of the Medications in the formulary.
 
-**Non-functional Requirements:**
+**Opitional Features:**
 > Clear all items in formulary and inventory.
 
 > Inventory and formulary automatically saves to disk when changes have been made.
