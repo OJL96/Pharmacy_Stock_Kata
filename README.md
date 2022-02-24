@@ -21,7 +21,7 @@ This project was inspired by the Truepill technical test. A console-based intera
 
 > Inventory and formulary automatically saves to disk when changes have been made.
 
-> No dependencies as they are generated on init if they do not exist.
+> No .txt files required for storage as they are generated on init if they do not exist.
 
 
 ---
