@@ -16,6 +16,23 @@ This project was inspired by the Truepill technical test. A console-based intera
 
 > List the names of the Medications in the formulary.
 
+> Add 100 packs of 50x500mg Paracetamol
+> 
+> Add 100 packs of 50x500mg Ibuprofen
+>
+> Add 20 packs of 20x250mg Amoxicillin
+>
+> Add 5 packs of 100x50mg Tramadol
+>
+> Add 20 packs of 10x30mg Codeine
+>
+> Add 10 packs of 10x10mg Simvastatin
+>
+> Add 5 packs of 50x3mg Warfarin
+>
+> List the name, strength, pack size and the total number of packs for all the medication in stock.  
+
+
 **Opitional Features:**
 > Clear all items in formulary and inventory.
 
