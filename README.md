@@ -33,7 +33,7 @@ This project was inspired by the Truepill technical test. A console-based intera
 > List the name, strength, pack size and the total number of packs for all the medication in stock.  
 
 
-**Opitional Features:**
+**Additional Features:**
 > Clear all items in formulary and inventory.
 
 > Inventory and formulary automatically saves to disk when changes have been made.
