@@ -1,7 +1,7 @@
 # _Pharmacy_Stock_Kata_
 
 ### Description  
-This project was inspired by the Truepill technical test. A console-based interface has been developed to allow a user to add or remove medicaiton from their formulary. In addition, an inventory service has been intergrated to allow the user to add medication stock in the form of packs to each medication if its in the formulary. The medication name is the primary key therefore each medicaiton can only be added once. Additional features have been added including write/read from disk function so that the user can pick up from where they've left of instead of having to restart when the program is terminated.  
+This project was inspired by the Truepill technical test. A console-based interface has been developed to allow a user to add or remove medication from their formulary. In addition, an inventory service has been intergrated to allow the user to add medication stock in the form of packs to each medication if its in the formulary. The medication name is the primary key therefore each medicaiton can only be added once. Additional features have been added including write/read from disk function so that the user can pick up from where they've left of instead of having to restart when the program is terminated.  
 
 ---
 ### Functionalities  
